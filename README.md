@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DusanDjordjic
-- 👀 I’m interested in Web development  
-- 🌱 I’m currently learning: React
-- 💞️ I’m looking to collaborate on a website project
+- 👀 I’m interested in challenging projects to test and improve my skills
+- 🌱 I’m currently learning: Angular
 - 📫 You can reach me Email: dukidjordjic@gmail.com or Instagram: @dusan_spl
 
 
