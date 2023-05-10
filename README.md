@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Dusan Djordjic
-- I build web applications, but I also love low level programming (C, ASM, Rust).
-- Feel free to conatct me on email: dukidjordjic@gmail.com
-
-
+- I enjoy building web applications but also love doing low-level programming.
+- You can reach by email: dukidjordjic@gmail.com
