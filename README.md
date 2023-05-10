@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DusanDjordjic
-- 👀 I’m interested in challenging projects to test and improve my skills
-- 🌱 I’m currently learning: Angular
-- 📫 You can reach me Email: dukidjordjic@gmail.com
+- 👋 Hi, I’m Dusan Djordjic
+- I enjoy building web applications but also love doing low-level programming.
+- You can reach by email: dukidjordjic@gmail.com
 
 
